@@ -2,7 +2,7 @@ var NAVTREEINDEX0 =
 {
 "analysis1.html":[0],
 "functions1.html":[1],
-"_general.html":[2],
+"general1.html":[2],
 "test1.html":[3],
 "annotated.html":[4,0],
 "bresenham_8cpp.html":[5,0,1],

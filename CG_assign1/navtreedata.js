@@ -25,7 +25,7 @@ var NAVTREE =
   [ "Tilford-Reingold Tree Drawing Algorithm", "index.html", [
     [ "Analysis", "analysis1.html", null ],
     [ "List of Functions", "functions1.html", null ],
-    [ "General Remarks", "_general.html", null ],
+    [ "General Remarks", "general1.html", null ],
     [ "Test Cases", "test1.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
