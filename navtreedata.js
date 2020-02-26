@@ -23,10 +23,10 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Tilford-Reingold Tree Drawing Algorithm", "index.html", [
-    [ "Analysis", "_analysis.html", null ],
-    [ "List of Functions", "_functions.html", null ],
+    [ "Analysis", "analysis1.html", null ],
+    [ "List of Functions", "functions1.html", null ],
     [ "General Remarks", "_general.html", null ],
-    [ "Test Cases", "_test.html", null ],
+    [ "Test Cases", "test1.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -50,7 +50,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_analysis.html"
+"analysis1.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
