@@ -52,7 +52,7 @@ params:
 
     label:
         text: "Keshav Kabra"
-        icon: ./logo.png
+        icon: ./apple-touch-icon.png
         iconHeight: 40
 
     # profile-mode
