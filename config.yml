@@ -129,7 +129,7 @@ menu:
           weight: 20
         - identifier: resume
           name: Resume
-          url: ./resume.pdf
+          url: ./resume/
           weight: 30
         - identifier: shots
           name: Shots
