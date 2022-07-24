@@ -5,17 +5,21 @@ tags: [Links, websites, best-websites]
 ---
 A collection of `some very neatly` designed websites, can help in daily use. Updated Regularly.
 
-### Images
+### Design and Images
 - [Profile Pic Maker](https://pfpmaker.com)
+- [Spline](https://spline.design/)
+- [Blush](https://blush.design)
 
-### PDFs
+### PDFs and documents
 - [Sejda](https://sejda.com)
-
-### Web Dev
-- [Flutter](https://flutter.dev)
+- [TinyWow](https://tinywow.com/)
+- [Wordtune](https://www.wordtune.com/)
 
 ### Misc
 - [Slap Chris](https://slapchris.com)
+- [Price History](https://pricehistoryapp.com/)
+- [Scribe How](https://www.scribehow.com)
+- [Versus util](https://versusutil.com/)
 
 <!-- We found a couple of recovered panics in the logs. These panics were happening pretty frequently. This is what the panic message said:
 
