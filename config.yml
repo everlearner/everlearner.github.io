@@ -127,14 +127,14 @@ menu:
           name: Tags
           url: /tags/
           weight: 20
-        - identifier: resume
-          name: Resume
-          url: ./resume/
-          weight: 30
-        - identifier: shots
-          name: Shots
-          url: ./shots/
-          weight: 30
+        # - identifier: resume
+        #   name: Resume
+        #   url: ./resume/
+        #   weight: 30
+        # - identifier: shots
+        #   name: Shots
+        #   url: ./shots/
+        #   weight: 30
         # - identifier: graphics
         #   name: Graphics
         #   url: ./Graphics/
